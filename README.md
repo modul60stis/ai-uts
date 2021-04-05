@@ -1,6 +1,6 @@
 # Artificial Intelligence - UTS
 
-*Code by Fatah*
+*Code by Peminatan SD Angkatan 60*
 
 
 ## Cara Menggunakan
