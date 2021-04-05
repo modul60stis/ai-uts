@@ -2,10 +2,6 @@
 
 *Code by Fatah*
 
-Materi akan segera diupload mohon bersabar
-
-## Mind Map
-![png](mindmap.png)
 
 ## Cara Menggunakan
 
