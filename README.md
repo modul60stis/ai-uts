@@ -6,7 +6,7 @@
 ## Cara Menggunakan
 
 Untuk memakai source code silahkan klik tombol `Code` kemudian pilih `Download ZIP` atau silahkan clone repository ini ke komputermu. Source code yang tersedia adalah:
-1. R, yang tersedia adalah file `.Rmd` dan `.html`. Untuk menggunakan file `.Rmd` silahkan menggunakan aplikasi [RStudio](https://rstudio.com/)
+1. Python, yang tersedia adalah file `.py`, `.html`, dan `.ipynb`. Untuk menggunakan file .ipynb silahkan gunakan Jupyter Notebook dari Anaconda
 
 Jika source code yang tersedia terdapat kesalahan silahkan hubungi Tim Modul 60 atau langsung lakukan **pull request** ke repository ini.
 
